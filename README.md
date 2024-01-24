@@ -45,4 +45,4 @@ https://crontab.guru/
 
 Comments
 Make sure you have appropriate permissions to write to the directory where the results are saved.
-Customize the HTML template or scripts as needed to suit your preferences.
+Customize the PHP/HTML template or scripts as needed to suit your preferences.
