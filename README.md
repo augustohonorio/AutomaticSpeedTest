@@ -1,6 +1,9 @@
 # AutomaticSpeedTest
 Speedtest Logger
 
+![image](https://github.com/augustohonorio/AutomaticSpeedTest/assets/60331928/cf3fda80-19c3-4c4d-9460-174c21006a8a)
+
+
 This set of scripts automates Speedtest CLI speed tests on an Ubuntu server. Results are recorded in CSV, including timestamp, server, latency, download/upload speeds, packet loss, and result URL. The HTML template offers user-friendly viewing with hyperlinks.
 
 It will need some installations to function properly.
